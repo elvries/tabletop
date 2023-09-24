@@ -22,5 +22,9 @@ pluginManagement {
     }
 }
 
-rootProject.name = "tabletop"
+rootProject.name = "imageviewer"
 
+//include(":androidApp")
+include(":shared")
+//include(":desktopApp")
+include(":webApp")
